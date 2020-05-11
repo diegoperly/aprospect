@@ -100,7 +100,7 @@
 
   "rich-text#link": {
     "props": {
-      "text": "\n**Reach us at**\nwww.vtex.com.br",
+      "text": "\n**Reach us at**\naprospect.com.br",
       "blockClass": "link"
     }
   }

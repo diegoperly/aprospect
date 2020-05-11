@@ -29,7 +29,7 @@
   },
   "notification.bar#home": {
     "props": {
-      "content": "SELECTED ITEMS ON SALE! CHECK IT OUT!"
+      "content": "CONFIRA NOSSOS ITENS EM PROMOÇÃO!"
     }
   },
   "flex-layout.row#3-desktop": {
@@ -90,9 +90,9 @@
   },
   "logo#desktop": {
     "props": {
-      "title": "Logo",
+      "title": "Aprospect",
       "href": "/",
-      "url": "https://storecomponents.vteximg.com.br/arquivos/store-theme-logo.png",
+      "url": "https://aprospect.vteximg.com.br/arquivos/aprospect.png",
       "width": "180"
     }
   },
@@ -134,9 +134,9 @@
 
   "logo#mobile": {
     "props": {
-      "title": "Logo",
+      "title": "Aprospect",
       "href": "/",
-      "url": "https://storecomponents.vteximg.com.br/arquivos/store-theme-logo-mobile.png",
+      "url": "https://aprospect.vteximg.com.br/arquivos/aprospect.png",
       "width": "70"
     }
   }
